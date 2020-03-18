@@ -1,0 +1,13 @@
+h1{
+font-weight: bold;
+font-family: 'Times New Roman';
+}
+
+a{
+    text-decoration: underline;
+    color:#683398;
+}
+
+table, th, td{
+border: 2px solid black;
+}
